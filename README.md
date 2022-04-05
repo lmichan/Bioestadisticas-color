@@ -6,3 +6,5 @@ Este proyecto se centra en realizar análisis cuantitativos sobre las investigac
 2. Qué laboratorios se especializan en estos temas
 3. De que regiones son
 4. Cómo ha evolucionado en el tiempo la disciplina
+5. Qué temas son los más estudiados
+6. Cuáles preguntas tienen mas impacto
