@@ -1,9 +1,9 @@
 # Bioestadisticas-color
 Análisis estadísticos de datos para biología del color
 
-Layla Michán 
-Laboratorio de Bioinformación
-Facultad de Ciencias UNAM
+**Layla Michán 
+_Laboratorio de Bioinformación_
+_Facultad de Ciencias UNAM_
 
 Este proyecto se centra en realizar análisis cuantitativos sobre las investigaciones en [Biología del Color](https://es.wikipedia.org/wiki/Color_en_los_seres_vivos) para responder preguntas como las siguientes:
 1. Quienes estudian el color en los seres vivos
