@@ -1,5 +1,5 @@
 # Bioestadisticas-color
-Análisis estadísticos de datos para biología del color
+Análisis estadísticos de datos para indagar sobre la investigación en biología del color
 
 **Layla Michán**
 _Laboratorio de Bioinformación_
