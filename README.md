@@ -8,3 +8,7 @@ Este proyecto se centra en realizar análisis cuantitativos sobre las investigac
 4. Cómo ha evolucionado en el tiempo la disciplina
 5. Qué temas son los más estudiados
 6. Cuáles preguntas tienen mas impacto
+
+### Visualizaciones
+
+1. Nube de palabras de #ColSci obtenidas de los temas de los Laboratorios de 2014. Fuente página http://colsci.weebly.com/contact.html software R.
