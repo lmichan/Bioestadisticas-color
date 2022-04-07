@@ -16,3 +16,6 @@ Este proyecto se centra en realizar análisis cuantitativos sobre las investigac
 ### Visualizaciones
 
 1. Nube de palabras de #ColSci obtenidas de los temas de los Laboratorios de 2014. Fuente página http://colsci.weebly.com/contact.html software R. @infovestigacion @Biocolores
+
+![telegram-cloud-photo-size-1-5078198455972768407-y](https://user-images.githubusercontent.com/17599614/162102918-863836b6-3570-450f-a303-5ab882d73d16.jpg)
+
