@@ -1,7 +1,7 @@
 # Bioestadisticas-color
 Análisis estadísticos de datos para biología del color
 
-**Layla Michán 
+**Layla Michán**
 _Laboratorio de Bioinformación_
 _Facultad de Ciencias UNAM_
 
